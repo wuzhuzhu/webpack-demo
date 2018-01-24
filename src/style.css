@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'vibes';
+    src: url("./vibes.woff") format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    font-family: 'vibes';
+    color: green
+}
